@@ -1,2 +1,3 @@
-# curso-python
-Exercícios de Python do Básico ao Avançado do Curso Udemy
+# Curso de Python do Básico ao Avançado
+
+Exercícios do Curso Udemy
