@@ -49,7 +49,7 @@ while True:
     print()
     num_1 = input('Digite um número: ')
     num_2 = input('Digite outro número: ')
-    operador = input('DIgite um operador: ')
+    operador = input('Digite um operador: ')
     sair = input('Deseja sair? [s]in ou [n]ão: ')
 
     if sair == 's':
