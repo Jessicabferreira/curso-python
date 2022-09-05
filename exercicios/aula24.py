@@ -27,7 +27,7 @@ print()
 l1 = [1,2,3]
 l2 = [4,5,6]
 l1.extend(l2)
-l2.append('b')  # insere falor no final da lista
+l2.append('b')  # insere valor no final da lista
 l2.insert(0, 'legal')  # insere no começo
 l1.pop()   # remove o ultimo elemento
 
