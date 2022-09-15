@@ -13,9 +13,7 @@ print()
 # Exemplo 2
 lista = ['Jessica', 'João', 'Maria', 1, 2, 3, 4, 5, 6, 7, 100]
 
-n1, n2, *_ = lista  # *_ indica que essa varial não sera usada no restante do código
+n1, n2, *_ = lista  # *_ indica que essa varialvel não sera usada no restante do código
 
 print(n1, n2)
-
-
 
