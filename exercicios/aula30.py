@@ -1,6 +1,6 @@
 """
-Operador ternário em python = permite testar uma condição em uma única linha, substituindo o if-else multilinha,
-tornado o código compacto
+Operador ternário em python = avaliam algo com base em ser verdadeiro ou falso permitindo testar uma condição em uma
+única linha, substituindo o if-else multilinha tornado o código compacto.
 """
 
 # Exemplo 1
