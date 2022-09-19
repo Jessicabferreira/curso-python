@@ -53,4 +53,3 @@ while True:
         print('Válido')
     else:
         print('Inválido')
-
